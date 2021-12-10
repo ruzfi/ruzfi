@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Riyan Firmansyah
+
+- 🔭 I’m currently working as Helpdesk Agent at an internet provider
+- 🌱 I’m currently learning about Penetration Testing, OSINT, Social Engineering, Offensive Security, Digital Forensics and sometimes do Capture The Flag and Hack the Box
+- ⚡ Fun fact: I still can't move on
+
 <!--
 **ruzfi72/ruzfi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
