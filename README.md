@@ -6,6 +6,9 @@ My name is Riyan Firmansyah
 - 🌱 I’m currently learning about Penetration Testing, OSINT, Social Engineering, Offensive Security, Digital Forensics and sometimes do Capture The Flag and Hack the Box
 - ⚡ Fun fact: I still can't move on
 
+[![Riyan Firmansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzfi72)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ruzfi72/ruzfi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
