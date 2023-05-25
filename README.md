@@ -3,7 +3,7 @@
 My name is Riyan Firmansyah
 
 - 🌱 I’m currently learning about Penetration Testing, OSINT, Social Engineering, Offensive Security, Digital Forensics and sometimes do Capture The Flag and Hack the Box
-- ⚡ Fun fact? my english is so bad and i'm still learning
+- ⚡ Fun fact? most of my push commit counts are fake
 
 [![Riyan Firmansyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzfi&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
